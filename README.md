@@ -1,2 +1,2 @@
 # docs
-Documentaion of Praxator
+Documentation of Praxator
